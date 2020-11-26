@@ -11,17 +11,17 @@
 		<dependency>
 		    <groupId>org.quartz-scheduler</groupId>
 		    <artifactId>quartz</artifactId>
-		    <version>2.2.3</version>
+		    <version>2.3.2</version>
 		</dependency>
 		<dependency>
 		    <groupId>org.apache.struts</groupId>
 		    <artifactId>struts2-core</artifactId>
-		    <version>2.3.15</version>
+		    <version>2.5.22</version>
 		</dependency>
 		<dependency>
 		    <groupId>com.fasterxml.jackson.core</groupId>
 		    <artifactId>jackson-databind</artifactId>
-		    <version>2.0.6</version>
+		    <version>2.9.10.2</version>
 		</dependency>
 		<dependency>
 		    <groupId>log4j</groupId>
@@ -31,7 +31,7 @@
 		<dependency>
 		    <groupId>com.itextpdf</groupId>
 		    <artifactId>itextpdf</artifactId>
-		    <version>5.3.4</version>
+		    <version>5.5.12</version>
 		</dependency>
 
 	</dependencies>
