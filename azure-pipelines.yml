@@ -20,4 +20,5 @@ steps:
 - task: WhiteSource@21
   inputs:
     cwd: '$(System.DefaultWorkingDirectory)'
-    projectName: 'test1'
+    projectName: 'Bolt-Test'
+    directScan: true
